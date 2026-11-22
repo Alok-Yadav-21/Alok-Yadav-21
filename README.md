@@ -16,8 +16,9 @@
 
 I'm an **AI Engineer** who turns large language models into products people actually use. I design the AI layer (prompting, structured outputs, grounding in user documents, agent workflows) and build everything around it: APIs, databases, interfaces and deployment.
 
-- 🚀 **Founder of [AIIQ](https://github.com/Alok-Yadav-21/Aiiq)**: an AI study platform that turns students' own notes into quizzes. Semi-finalist, *WYBI: Pathway to Success*
-- 🎓 **MSc Data Science**, Middlesex University London · BSc Information Technology, Charotar University
+- 🚀 **Co-founder of NoidSpace**: a digital studio building websites and AI solutions for UK businesses
+- 🎓 **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)**, my MSc final-year project: an AI study platform that turns students' own notes into quizzes. Semi-finalist, *WYBI: Pathway to Success*
+- 📚 **MSc Data Science**, Middlesex University London · BSc Information Technology, Charotar University
 - 💼 Former **Business Analyst** at Lyrcon Solutions: I start from the problem, not the model
 - 📍 London, UK · **open to AI Engineer roles**
 
@@ -30,7 +31,7 @@ I'm an **AI Engineer** who turns large language models into products people actu
 <td width="50%" valign="top">
 
 #### 🎓 [AIIQ](https://github.com/Alok-Yadav-21/Aiiq)
-Upload notes, slides or PDFs → an LLM generates **quizzes, flashcards and study notes grounded only in that material**, then gives adaptive feedback on weak topics. Live multiplayer quiz rooms.
+*MSc final-year project.* Upload notes, slides or PDFs → an LLM generates **quizzes, flashcards and study notes grounded only in that material**, then gives adaptive feedback on weak topics. Live multiplayer quiz rooms.
 
 `Gemini 2.5 Flash` `Next.js` `PostgreSQL` `Prisma` `Socket.io`
 
@@ -73,7 +74,7 @@ End-to-end ML pipeline served via Streamlit, **benchmarked against a linear base
 | **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** | Multi-branch platform for a UK phone-repair business: repairs, retail, trade-ins, staff roles, reporting | [Live ↗](https://virktech.vercel.app) |
 | **Folu Foods** | Online grocery store: Stripe checkout, delivery-radius check, click & collect, Python catalogue cleaning | [Live ↗](https://folu-foods-london.vercel.app) |
 | **Gigaglobal Overseas** | Education-consultancy site with enquiry system and SEO; migrated to Render + Neon PostgreSQL | [Live ↗](https://gigaglobaloverseas.com) |
-| **NoidSpace** | My digital studio's site: WebGL 3D hero and a free website-audit tool (29 automated tests) | |
+| **NoidSpace** | Website for the studio I co-founded: WebGL 3D hero and a free website-audit tool (29 automated tests) | |
 
 <sub>Client code is kept private to protect client data.</sub>
 
