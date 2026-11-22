@@ -58,7 +58,15 @@ I build machine-learning and LLM-powered products end to end: from data and mode
 | **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** · [live](https://virktech.vercel.app) | Production client platform for a multi-branch UK phone-repair business: repairs, retail, refurbished sales, trade-ins, staff and admin roles, financial reporting. | React · Express · PostgreSQL |
 | **mathtodata.com** · [live](https://mathtodata.com) | My AI/ML portfolio with a built-in LLM chatbot that answers questions about my work. | Next.js · TypeScript · Groq LLaMA 3 |
 
-**Also:** production migration of a client university-finder app from Replit to Render + Neon PostgreSQL, including DNS cutover.
+### 💼 Client & freelance work
+
+*Code is private to protect client data. Live sites linked below.*
+
+| Project | What I delivered | Stack |
+|---|---|---|
+| **Folu Foods** · [live](https://folu-foods-london.vercel.app) | Online grocery store for an African, Caribbean & Asian food shop in Grove Park, London: product catalogue and search, Stripe checkout with webhooks, delivery-radius check (6 miles) and click & collect, admin product management. Python scripts to clean and import the product catalogue. | Next.js · TypeScript · Supabase · Stripe · Resend · Python |
+| **Gigaglobal Overseas** · [live](https://gigaglobaloverseas.com) | Full-stack website for an overseas-education consultancy: university guidance, enquiry system, SEO (JSON-LD, Open Graph, sitemap). Migrated production from Replit to Render + Neon PostgreSQL, including DNS cutover. | React · TypeScript · Express · PostgreSQL · Drizzle |
+| **NoidSpace** | Website for my digital studio serving UK businesses: WebGL 3D hero, 16 service pages generated from content files, and a free website-audit tool that scores SEO, speed and growth readiness (29 automated tests, SSRF-safe fetching). | Next.js 16 · React 19 · Three.js · Tailwind v4 |
 
 ---
 
