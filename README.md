@@ -1,82 +1,105 @@
-<h1 align="left">Hi, I'm Alok Yadav 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Alok%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Applications&descSize=20&descAlignY=58" width="100%" />
 
-### AI/ML Engineer · Data Scientist · Full-stack builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=640&lines=I+build+LLM-powered+products+end+to+end;From+prompt+and+model+to+API%2C+database+and+UI;Gemini+%C2%B7+Claude+%C2%B7+Groq+%C2%B7+n8n+agents;MSc+Data+Science+%40+Middlesex+University+London" alt="Typing SVG" />
+</p>
 
-I build machine-learning and LLM-powered products end to end: from data and models to the APIs and interfaces people actually use.
-
-- 🎓 **MSc Data Science**, Middlesex University London (completing Sept 2026) · BSc Information Technology, Charotar University
-- 🚀 Founder of **AIIQ**, an AI quiz platform that generates quizzes from students' own notes and PDFs. Semi-finalist, *WYBI: Pathway to Success* startup competition. Also my MSc dissertation.
-- 💼 Previously **Business Analyst** at Lyrcon Solutions: requirements gathering and turning business problems into technical specs
-- 🔭 Currently focused on **LLM agents, retrieval and evaluation**, and applied ML
-- 📍 London, UK · open to **AI/ML Engineer and Data Scientist** roles
-
-<p>
-  <a href="https://mathtodata.com"><img src="https://img.shields.io/badge/Portfolio-mathtodata.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yadavalokml"><img src="https://img.shields.io/badge/LinkedIn-yadavalokml-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alokfirst21@gmail.com"><img src="https://img.shields.io/badge/Email-alokfirst21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://mathtodata.com"><img src="https://img.shields.io/badge/Portfolio-mathtodata.com-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yadavalokml"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alokfirst21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech stack
+### 👋 About me
 
-**Machine learning & data**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+I'm an **AI Engineer** who turns large language models into products people actually use. I design the AI layer (prompting, structured outputs, grounding in user documents, agent workflows) and build everything around it: APIs, databases, interfaces and deployment.
 
-**LLMs & agents**
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
-![Anthropic Claude API](https://img.shields.io/badge/Claude_API-191919?logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_·_LLaMA_3-F55036)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9)
-
-**Engineering**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+- 🚀 **Founder of [AIIQ](https://github.com/Alok-Yadav-21/Aiiq)**: an AI study platform that turns students' own notes into quizzes. Semi-finalist, *WYBI: Pathway to Success*
+- 🎓 **MSc Data Science**, Middlesex University London · BSc Information Technology, Charotar University
+- 💼 Former **Business Analyst** at Lyrcon Solutions: I start from the problem, not the model
+- 📍 London, UK · **open to AI Engineer roles**
 
 ---
 
-## ⭐ Featured projects
+### 🧠 AI projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)** | AI study platform: students upload notes, slides or PDFs and an LLM generates quizzes, flashcards and notes grounded in that material, with adaptive feedback on weak topics and live multiplayer quiz rooms. Startup + MSc dissertation. | Next.js · PostgreSQL · Prisma · Gemini 2.5 Flash · Socket.io |
-| **[House Price Predictor](https://github.com/Alok-Yadav-21/house-price-predictor)** | Random Forest regression model served through an interactive Streamlit app for real-time price estimates. | Python · scikit-learn · Streamlit |
-| **[Bill Agent](https://github.com/Alok-Yadav-21/bill-agent)** | Shared household finance ledger where balances are always derived from confirmed transactions; AI and n8n automations assist but are never the source of truth. Role-based access enforced on the backend. | Next.js · TypeScript · PostgreSQL · n8n |
-| **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** · [live](https://virktech.vercel.app) | Production client platform for a multi-branch UK phone-repair business: repairs, retail, refurbished sales, trade-ins, staff and admin roles, financial reporting. | React · Express · PostgreSQL |
-| **mathtodata.com** · [live](https://mathtodata.com) | My AI/ML portfolio with a built-in LLM chatbot that answers questions about my work. | Next.js · TypeScript · Groq LLaMA 3 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💼 Client & freelance work
+#### 🎓 [AIIQ](https://github.com/Alok-Yadav-21/Aiiq)
+Upload notes, slides or PDFs → an LLM generates **quizzes, flashcards and study notes grounded only in that material**, then gives adaptive feedback on weak topics. Live multiplayer quiz rooms.
 
-*Code is private to protect client data. Live sites linked below.*
+`Gemini 2.5 Flash` `Next.js` `PostgreSQL` `Prisma` `Socket.io`
 
-| Project | What I delivered | Stack |
-|---|---|---|
-| **Folu Foods** · [live](https://folu-foods-london.vercel.app) | Online grocery store for an African, Caribbean & Asian food shop in Grove Park, London: product catalogue and search, Stripe checkout with webhooks, delivery-radius check (6 miles) and click & collect, admin product management. Python scripts to clean and import the product catalogue. | Next.js · TypeScript · Supabase · Stripe · Resend · Python |
-| **Gigaglobal Overseas** · [live](https://gigaglobaloverseas.com) | Full-stack website for an overseas-education consultancy: university guidance, enquiry system, SEO (JSON-LD, Open Graph, sitemap). Migrated production from Replit to Render + Neon PostgreSQL, including DNS cutover. | React · TypeScript · Express · PostgreSQL · Drizzle |
-| **NoidSpace** | Website for my digital studio serving UK businesses: WebGL 3D hero, 16 service pages generated from content files, and a free website-audit tool that scores SEO, speed and growth readiness (29 automated tests, SSRF-safe fetching). | Next.js 16 · React 19 · Three.js · Tailwind v4 |
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [Bill Agent](https://github.com/Alok-Yadav-21/bill-agent)
+Household finance ledger where **AI and n8n agents assist but never own the numbers**: receipt processing, budget alerts and a natural-language assistant on top of a database-derived balance.
+
+`n8n` `Claude API` `Next.js` `PostgreSQL` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [mathtodata.com](https://mathtodata.com)
+My portfolio with a **built-in LLM chatbot** that answers recruiters' questions about my projects and experience in real time.
+
+`Groq` `LLaMA 3` `Next.js` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [House Price Predictor](https://github.com/Alok-Yadav-21/house-price-predictor)
+End-to-end ML pipeline served via Streamlit, **benchmarked against a linear baseline** (R² 0.94 vs 0.91) with an analysis of why the simpler model wins on this data.
+
+`Python` `scikit-learn` `pandas` `Streamlit`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub activity
+### 🌐 Shipped for real clients
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alok-Yadav-21&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Yadav-21&layout=compact&hide_border=true" />
+| Project | What I built | |
+|---|---|---|
+| **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** | Multi-branch platform for a UK phone-repair business: repairs, retail, trade-ins, staff roles, reporting | [Live ↗](https://virktech.vercel.app) |
+| **Folu Foods** | Online grocery store: Stripe checkout, delivery-radius check, click & collect, Python catalogue cleaning | [Live ↗](https://folu-foods-london.vercel.app) |
+| **Gigaglobal Overseas** | Education-consultancy site with enquiry system and SEO; migrated to Render + Neon PostgreSQL | [Live ↗](https://gigaglobaloverseas.com) |
+| **NoidSpace** | My digital studio's site: WebGL 3D hero and a free website-audit tool (29 automated tests) | |
+
+<sub>Client code is kept private to protect client data.</sub>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,ts,js,nextjs,react,nodejs,express,postgres,prisma,supabase,tailwind,docker,vercel,git&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20%C2%B7%20LLaMA%203-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n%20agents-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-<p align="center"><i>Open to AI/ML Engineer and Data Scientist roles in the UK. Let's talk: <a href="mailto:alokfirst21@gmail.com">alokfirst21@gmail.com</a></i></p>
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alok-Yadav-21&theme=transparent&hide_border=true&ring=2C9AB7&fire=2C9AB7&currStreakLabel=2C9AB7" height="165" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
