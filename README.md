@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Alok%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Applications&descSize=20&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=640&lines=I+build+LLM-powered+products+end+to+end;From+prompt+and+model+to+API%2C+database+and+UI;Gemini+%C2%B7+Claude+%C2%B7+Groq+%C2%B7+n8n+agents;MSc+Data+Science+%40+Middlesex+University+London" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=2C9AB7&center=true&vCenter=true&width=640&lines=I+build+LLM-powered+products+end+to+end;From+prompt+and+model+to+API%2C+database+and+UI;Gemini+%C2%B7+Claude+%C2%B7+Groq+%C2%B7+n8n+agents;MSc+Data+Science+graduate+%C2%B7+Middlesex+University+London" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@ I'm an **AI Engineer** who turns large language models into products people actu
 
 - 🚀 **Co-founder of [NoidSpace](https://noidspace.com)**: an AI, web & app development studio for UK businesses
 - 🎓 **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)**, my MSc final-year project: an AI study platform that turns students' own notes into quizzes. Semi-finalist, *WYBI: Pathway to Success*
-- 📚 **MSc Data Science**, Middlesex University London · BSc Information Technology, Charotar University
+- 📚 **MSc Data Science graduate**, Middlesex University London · BSc Information Technology, Charotar University
 - 💼 Former **Business Analyst** at Lyrcon Solutions: I start from the problem, not the model
-- 📍 London, UK · **open to AI Engineer roles**
+- 📍 London, UK · **open to AI Engineer roles, available now**
 
 ---
 
