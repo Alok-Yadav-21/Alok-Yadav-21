@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mathtodata.com"><img src="https://img.shields.io/badge/Portfolio-mathtodata.com-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://alok-portfolio-lyart.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yadavalokml"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alokfirst21@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -48,7 +48,7 @@ Household finance ledger where **AI and n8n agents assist but never own the numb
 <tr>
 <td width="50%" valign="top">
 
-#### 💬 [mathtodata.com](https://mathtodata.com)
+#### 💬 [AI Portfolio](https://alok-portfolio-lyart.vercel.app)
 My portfolio with a **built-in LLM chatbot** that answers recruiters' questions about my projects and experience in real time.
 
 `Groq` `LLaMA 3` `Next.js` `TypeScript`
