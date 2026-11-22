@@ -16,7 +16,7 @@
 
 I'm an **AI Engineer** who turns large language models into products people actually use. I design the AI layer (prompting, structured outputs, grounding in user documents, agent workflows) and build everything around it: APIs, databases, interfaces and deployment.
 
-- 🚀 **Co-founder of NoidSpace**: a digital studio building websites and AI solutions for UK businesses
+- 🚀 **Co-founder of [NoidSpace](https://noidspace.com)**: an AI, web & app development studio for UK businesses
 - 🎓 **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)**, my MSc final-year project: an AI study platform that turns students' own notes into quizzes. Semi-finalist, *WYBI: Pathway to Success*
 - 📚 **MSc Data Science**, Middlesex University London · BSc Information Technology, Charotar University
 - 💼 Former **Business Analyst** at Lyrcon Solutions: I start from the problem, not the model
@@ -67,14 +67,14 @@ End-to-end ML pipeline served via Streamlit, **benchmarked against a linear base
 
 ---
 
-### 🌐 Shipped for real clients
+### 🌐 Shipped for real businesses
 
 | Project | What I built | |
 |---|---|---|
 | **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** | Multi-branch platform for a UK phone-repair business: repairs, retail, trade-ins, staff roles, reporting | [Live ↗](https://virktech.vercel.app) |
 | **Folu Foods** | Online grocery store: Stripe checkout, delivery-radius check, click & collect, Python catalogue cleaning | [Live ↗](https://folu-foods-london.vercel.app) |
 | **Gigaglobal Overseas** | Education-consultancy site with enquiry system and SEO; migrated to Render + Neon PostgreSQL | [Live ↗](https://gigaglobaloverseas.com) |
-| **NoidSpace** | Website for the studio I co-founded: WebGL 3D hero and a free website-audit tool (29 automated tests) | |
+| **[NoidSpace](https://noidspace.com)** | The AI, web & app studio I co-founded: site with a WebGL 3D hero and a free website-audit tool (29 automated tests), plus our restaurant ordering product RestroBuddys | [Live ↗](https://noidspace.com) |
 
 <sub>Client code is kept private to protect client data.</sub>
 
