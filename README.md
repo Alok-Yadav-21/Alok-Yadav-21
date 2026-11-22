@@ -29,6 +29,7 @@ I build machine-learning and LLM-powered products end to end: from data and mode
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **LLMs & agents**
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![Anthropic Claude API](https://img.shields.io/badge/Claude_API-191919?logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_·_LLaMA_3-F55036)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
@@ -51,7 +52,7 @@ I build machine-learning and LLM-powered products end to end: from data and mode
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)** | AI quiz generator: students upload notes/PDFs, an LLM generates topic-specific quizzes and tracks progress. Startup + MSc dissertation. | Next.js 14 · PostgreSQL · Prisma · Claude API · pdf-parse |
+| **[AIIQ](https://github.com/Alok-Yadav-21/Aiiq)** | AI study platform: students upload notes, slides or PDFs and an LLM generates quizzes, flashcards and notes grounded in that material, with adaptive feedback on weak topics and live multiplayer quiz rooms. Startup + MSc dissertation. | Next.js · PostgreSQL · Prisma · Gemini 2.5 Flash · Socket.io |
 | **[House Price Predictor](https://github.com/Alok-Yadav-21/house-price-predictor)** | Random Forest regression model served through an interactive Streamlit app for real-time price estimates. | Python · scikit-learn · Streamlit |
 | **[Bill Agent](https://github.com/Alok-Yadav-21/bill-agent)** | Shared household finance ledger where balances are always derived from confirmed transactions; AI and n8n automations assist but are never the source of truth. Role-based access enforced on the backend. | Next.js · TypeScript · PostgreSQL · n8n |
 | **[Virktech](https://github.com/Alok-Yadav-21/virktech-)** · [live](https://virktech.vercel.app) | Production client platform for a multi-branch UK phone-repair business: repairs, retail, refurbished sales, trade-ins, staff and admin roles, financial reporting. | React · Express · PostgreSQL |
